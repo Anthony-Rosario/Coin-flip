@@ -58,11 +58,11 @@ header {
     font-size: 40px;
     color: #5f0a87d7;
     -moz-border-radius-bottomright: 58px;
--webkit-border-bottom-right-radius: 58px;
-border-bottom-right-radius: 58px;
--moz-border-radius-bottomleft: 58px;
--webkit-border-bottom-left-radius: 58px;
-border-bottom-left-radius: 58px;
+    -webkit-border-bottom-right-radius: 58px;
+    border-bottom-right-radius: 58px;
+    -moz-border-radius-bottomleft: 58px;
+    -webkit-border-bottom-left-radius: 58px;
+    border-bottom-left-radius: 58px;
 }
 
 
