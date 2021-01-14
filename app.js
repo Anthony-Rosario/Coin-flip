@@ -56,4 +56,4 @@ resetButton.addEventListener('click', () => {
     tieDisplay.textContent = ties;
     loseDisplay.textContent = losses;
     totalAttempts.textContent = total;
-})
+});
